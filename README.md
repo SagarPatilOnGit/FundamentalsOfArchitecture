@@ -1,4 +1,4 @@
-# FundamentalsOfArchitecture
+# Fundamentals Of Architecture
 
 • An Architectural Style is the application design at the highest level of abstraction. It’s the highest level of granularity and it specifies layers, high-level modules of the application and how those modules and layers interact with each other, the relations between them. Examples of Architectural Styles:
 	Component-based
