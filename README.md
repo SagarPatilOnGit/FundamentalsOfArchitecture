@@ -25,6 +25,5 @@
   Under GoF we have Creational, Structural and Behavioural design patterns
   
 Misc: Apart from above architectural / design patterns, below are few demanding architectures:
-   Clean Architecture
-   Onion Architecture
+   Clean / Onion Architecture
    Serverless Architecture
